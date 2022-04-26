@@ -1,0 +1,13 @@
+.appBottomMenu a {
+  font-size: 1em !important;
+}
+.appBottomMenu .material-icons {
+  color: #585858;
+}
+.appBottomMenu .item.active:before .material-icons {
+  background: #b90e0e;
+  color: #b90e0e;
+}
+.appBottomMenu .active .material-icons {
+  color: #b90e0e !important;
+}

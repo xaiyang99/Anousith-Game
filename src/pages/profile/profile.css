@@ -1,0 +1,18 @@
+#appCapsule {
+    color: #000;
+}
+
+.avatar-section .img {
+    border: 2px solid #b90e0e;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+}
+
+.user-info {
+    margin-top: -70px;
+    background: #fff;
+    border-top-left-radius: 2em;
+    border-top-right-radius: 2em;
+    padding-top: 70px;
+}
